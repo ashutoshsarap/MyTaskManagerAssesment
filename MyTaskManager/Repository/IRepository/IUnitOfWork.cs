@@ -3,6 +3,7 @@
     public interface IUnitOfWork
     {
         public ITaskRepository TaskItem { get; }
+        public ICategoryRepository Category { get; }
         void Save();
     }
 }

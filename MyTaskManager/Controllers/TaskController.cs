@@ -37,20 +37,42 @@ namespace MyTaskManager.Controllers
         [HttpPost]
         public IActionResult Add(TaskVM taskVM)
         {
+            //if (ModelState.IsValid)
+            //{
+            //    taskService.Add(new TaskDTO
+            //    {
+            //        Id = taskVM.Id,
+            //        Title = taskVM.Title,
+            //        Description = taskVM.Description,
+            //        DueDate = taskVM.DueDate,
+            //        Priority = taskVM.Priority,
+            //        CategoryId = taskVM.CategoryId
+            //    });
+            //    return RedirectToAction("Index");
+            //}
             if (ModelState.IsValid)
             {
-                taskService.Add(new TaskDTO
+                try
                 {
-                    Id = taskVM.Id,
-                    Title = taskVM.Title,
-                    Description = taskVM.Description,
-                    DueDate = taskVM.DueDate,
-                    Priority = taskVM.Priority,
-                    CategoryId = taskVM.CategoryId
-                });
-                return RedirectToAction("Index");
+                    taskService.Add(new TaskDTO
+                    {
+                        Id = taskVM.Id,
+                        Title = taskVM.Title,
+                        Description = taskVM.Description,
+                        DueDate = taskVM.DueDate,
+                        Priority = taskVM.Priority,
+                        CategoryId = taskVM.CategoryId
+                    });
+                    return RedirectToAction("Index");
+
+                }
+                catch (Exception ex)
+                {
+                    ModelState.AddModelError(string.Empty, $"An error occurred while adding the task: {ex.Message}");
+                }
+                return RedirectToAction(nameof(Index));
             }
-            return View(taskVM);
+             return View(taskVM);
         }
 
         [ActionName("Delete")]

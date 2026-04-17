@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\views\\task\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\views\\task\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\views\\task\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\views\\task\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\services\\iservice\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\services\\iservice\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\models\\viewmodels\\taskvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DFCAD42-D6DB-43A1-AAED-F542ED052289}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\models\\viewmodels\\taskvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\mytaskmanager\\mytaskmanager\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3B424-BB71-94AF-3AB6-AA64DE873004}|MyTaskManager\\MyTaskManager.csproj|solutionrelative:mytaskmanager\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Views\\Task\\Index.cshtml",
-              "RelativeDocumentMoniker": "MyTaskManager\\Views\\Task\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Views\\Task\\Index.cshtml",
-              "RelativeToolTip": "MyTaskManager\\Views\\Task\\Index.cshtml",
-              "ViewState": "AgIAACIAAABARkREREQjwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-17T08:55:04.861Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "MyTaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Program.cs",
+              "RelativeToolTip": "MyTaskManager\\Program.cs",
+              "ViewState": "AgIAAAYAAABgd3d3d3ctwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:41:42.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Views\\Task\\Update.cshtml",
-              "RelativeDocumentMoniker": "MyTaskManager\\Views\\Task\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Views\\Task\\Update.cshtml",
-              "RelativeToolTip": "MyTaskManager\\Views\\Task\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-17T08:54:23.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITaskService.cs",
-              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Services\\IService\\ITaskService.cs",
-              "RelativeDocumentMoniker": "MyTaskManager\\Services\\IService\\ITaskService.cs",
-              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Services\\IService\\ITaskService.cs",
-              "RelativeToolTip": "MyTaskManager\\Services\\IService\\ITaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:52:52.931Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\appsettings.json",
+              "RelativeDocumentMoniker": "MyTaskManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\appsettings.json",
+              "RelativeToolTip": "MyTaskManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T12:41:35.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Views\\Task\\Add.cshtml",
-              "RelativeDocumentMoniker": "MyTaskManager\\Views\\Task\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Views\\Task\\Add.cshtml",
-              "RelativeToolTip": "MyTaskManager\\Views\\Task\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-17T08:39:15.54Z",
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyTaskManager\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "MyTaskManager\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:39:45.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskVM.cs",
-              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Models\\ViewModels\\TaskVM.cs",
-              "RelativeDocumentMoniker": "MyTaskManager\\Models\\ViewModels\\TaskVM.cs",
-              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Models\\ViewModels\\TaskVM.cs",
-              "RelativeToolTip": "MyTaskManager\\Models\\ViewModels\\TaskVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "MyTaskManager\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Repository\\Repository.cs",
+              "RelativeToolTip": "MyTaskManager\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:40:15.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "MyTaskManager\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "MyTaskManager\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:39:13.471Z",
+              "WhenOpened": "2026-04-17T12:38:57.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyTaskManager\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "MyTaskManager\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:38:49.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MyTaskManager\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MyTaskManager\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:33:22.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyTaskManager\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "MyTaskManager\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:28:21.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "MyTaskManager\\Services\\TaskService.cs",
               "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Services\\TaskService.cs",
               "RelativeToolTip": "MyTaskManager\\Services\\TaskService.cs",
-              "ViewState": "AgIAADYAAAAACREREREBwEsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:39:08.853Z",
+              "WhenOpened": "2026-04-17T12:22:08.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "MyTaskManager\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\MyTaskManager\\MyTaskManager\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "MyTaskManager\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAADAAAAAAsd3d3V0dwEgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:22:03.502Z",
               "EditorCaption": ""
             }
           ]

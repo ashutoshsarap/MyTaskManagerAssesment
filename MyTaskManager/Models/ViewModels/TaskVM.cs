@@ -1,4 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using MyTaskManager.Models.Entity;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace MyTaskManager.Models.ViewModels
 {
@@ -15,5 +19,12 @@ namespace MyTaskManager.Models.ViewModels
         [Required(ErrorMessage ="Priority is required")]
         public PriorityEnum Priority { get; set; }
         public int CategoryId { get; set; }
+        [ValidateNever]
+        public string CategoryName { get; set; }
+        [ValidateNever]
+        public CategoryEntity Category { get; set; }
+        [ValidateNever]
+        public List<SelectListItem> Categories { get; set; }
+
     }
 }
