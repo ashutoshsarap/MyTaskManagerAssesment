@@ -1,0 +1,55 @@
+﻿@using MyTaskManager.Models.ViewModels
+@model IEnumerable<TaskVM>
+
+@{
+    ViewData["Title"] = "Tasks";
+}
+
+<div class="col-6 text-end">
+    <a asp-action="Add" class="btn btn-primary">
+        <i class="bi bi-file-plus"></i>Add new task
+    </a>
+</div>
+
+<h1>Tasks</h1>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No tasks available.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>DueDate</th>
+                <th>Priority</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var t in Model)
+            {
+                <tr>
+                    <td>@t.Title</td>
+                    <td>@t.Description</td>
+                    <td>@t.DueDate</td>
+                    <td>@t.Priority</td>
+                    <td>@t.CategoryId</td>
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a asp-controller="Task" asp-action="Update" asp-route-id="@t.Id" class="btn btn-primary mx-2">
+                                <i class="bi bi-pencil-square"></i>Edit
+                            </a>
+                            <form asp-controller="Task" asp-action="Delete" asp-route-id="@t.Id" class="btn btn-primary mx-2">
+                                <button type="submit" class="btn-danger">Delete</button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
